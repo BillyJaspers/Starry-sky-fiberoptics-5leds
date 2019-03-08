@@ -14,4 +14,6 @@ Average stays the same.
 Minimum, maximum and timing options change randomly
 from 5 options every time it reaches the average again.
 
+Made for Arduino Pro Mini
+
 Created by Billy Jaspers, May 2019.
